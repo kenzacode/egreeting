@@ -1,0 +1,11 @@
+﻿body {
+    background-image: url("/images/forest.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Nosifer', cursive;
+
+}
